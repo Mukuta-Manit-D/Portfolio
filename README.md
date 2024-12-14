@@ -175,7 +175,7 @@ The Current Project is Built and deployed Using Github Pages on live: <br />
 -------------------------------------
 
 ## Output
-Check out the Output site for the Project [Here]
+Check out the Output site for the Project [Here](https://portfolio-mukutamanit.pages.dev/)
 
 -------------------------------------
 
